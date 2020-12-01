@@ -43,9 +43,11 @@ Example of previous [workshops](https://ibm.box.com/s/peor234x7hms4lfhiwy4ay9dd3
 ## 1 - Latest Content
 -  July 2020 - Open Source , OpenShift & App Modernization : [Why OpenShift and OCP for IBM i modernization?](https://ibm.box.com/v/ocp-opensource-ibmi) 
 -  June 2020 - Cool Presentation & Demo - [Augment your Apps with H2O Driverless AI, Scikit-Learn & Machine Learning on IBM i](https://ibm.box.com/v/machinelearning-ibmi)
+
 ### Power Systems in the Multicloud Era - Video Series 2Q2020
--  Get Started with IBM Cloud Power Virtual Server & AIX/IBM i  https://youtu.be/RywSfXT_LLs
--  Automation with Terraform, IBM Cloud Pak for MCM   https://youtu.be/fHZjQiXSICQ
+
+-  Get Started with IBM Cloud Power Virtual Server & AIX/IBM i : [Video](https://youtu.be/RywSfXT_LLs)
+-  Automation with Terraform, IBM Cloud Pak for MCM   [Video](https://youtu.be/fHZjQiXSICQ)
 -  June 2020 - [Introduction to Power Virtual Server, Deep Dive , HA/DR & Object Storage backup](https://ibm.box.com/v/psvs-focus-ibmi)
 -  June 2020 - [IBM i Integration](https://ibm.box.com/v/ibmi-api-integration) : Web Services, Node-red, Loopback, APIM, Cloud Pak for Integration intro
 
