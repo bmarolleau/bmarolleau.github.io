@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-01T17:07:28+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Benoit Marolleau’s Blog</title><subtitle>A blog containing various assets, and sharing, based on real-life projects #Cloud #AI #IBMi #RedHat #OpenSource</subtitle><entry><title type="html">Materials: Application &amp;amp; Ops Modernization Journey, AI, Cloud, IoT, Digital Transformation…</title><link href="http://localhost:4000/jekyll/update/2020/12/01/0-InitialREADME.html" rel="alternate" type="text/html" title="Materials: Application &amp;amp; Ops Modernization Journey, AI, Cloud, IoT, Digital Transformation…" /><published>2020-12-01T10:51:57+01:00</published><updated>2020-12-01T10:51:57+01:00</updated><id>http://localhost:4000/jekyll/update/2020/12/01/0-InitialREADME</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/12/01/0-InitialREADME.html">&lt;p&gt;&lt;a href=&quot;https://ibm.ent.box.com/v/appmod-ocp-power-demo1&quot; title=&quot;Modernization with OpenShift : replatforming &quot;&gt;&lt;img src=&quot;public/images/M3.png&quot; alt=&quot;IBMi App Mod &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-01T17:10:26+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Benoit Marolleau’s Blog</title><subtitle>A blog containing various assets, and sharing, based on real-life projects #Cloud #AI #IBMi #RedHat #OpenSource</subtitle><entry><title type="html">Materials: Application &amp;amp; Ops Modernization Journey, AI, Cloud, IoT, Digital Transformation…</title><link href="http://localhost:4000/jekyll/update/2020/12/01/0-InitialREADME.html" rel="alternate" type="text/html" title="Materials: Application &amp;amp; Ops Modernization Journey, AI, Cloud, IoT, Digital Transformation…" /><published>2020-12-01T10:51:57+01:00</published><updated>2020-12-01T10:51:57+01:00</updated><id>http://localhost:4000/jekyll/update/2020/12/01/0-InitialREADME</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/12/01/0-InitialREADME.html">&lt;p&gt;&lt;a href=&quot;https://ibm.ent.box.com/v/appmod-ocp-power-demo1&quot; title=&quot;Modernization with OpenShift : replatforming &quot;&gt;&lt;img src=&quot;/assets/M3.png&quot; alt=&quot;IBMi App Mod &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;application-modernization-journey-in-the-multi-cloud-era&quot;&gt;Application Modernization Journey in the multi Cloud era&lt;/h2&gt;
 
@@ -69,7 +69,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;Presentation: 
-&lt;a href=&quot;https://ibm.box.com/v/ibmi-opensource-watsonstudio&quot; title=&quot;Watson Studio WML intro - AI IBM i&quot;&gt;&lt;img src=&quot;public/images/dsx-ibmi.jpg&quot; alt=&quot;Watson Studio WML intro - AI IBM i &quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&quot;https://ibm.box.com/v/ibmi-opensource-watsonstudio&quot; title=&quot;Watson Studio WML intro - AI IBM i&quot;&gt;&lt;img src=&quot;/assets/dsx-ibmi.jpg&quot; alt=&quot;Watson Studio WML intro - AI IBM i &quot; /&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Soon you’ll see how to use Driverless AI &amp;amp; PowerAI Vision from IBM i for creating a recommendation engine or other augmented apps using Open Source on i.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -83,7 +83,7 @@
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;Presentation:&lt;br /&gt;
- &lt;a href=&quot;https://ibm.box.com/v/iot-watsonstudio-maximo&quot; title=&quot;Watson Studio intro - hybrid Cloud IoT&quot;&gt;&lt;img src=&quot;public/images/dsx-iot-1.jpg&quot; alt=&quot;Watson Studio intro - hybrid Cloud IoT &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+ &lt;a href=&quot;https://ibm.box.com/v/iot-watsonstudio-maximo&quot; title=&quot;Watson Studio intro - hybrid Cloud IoT&quot;&gt;&lt;img src=&quot;/assets/dsx-iot-1.jpg&quot; alt=&quot;Watson Studio intro - hybrid Cloud IoT &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Demo  https://ibm.ent.box.com/v/power-iot-dsx-video-mp4&lt;/p&gt;
@@ -100,7 +100,7 @@
   &lt;li&gt;Video: A “Foundation” scenario using IBM Cloud Private, PowerVC &amp;amp; CAM for Multi Cloud automation &amp;amp; IaaS  , soon enriched with CI / CD.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/v/ibmi-powervc-cam-icp-demo1&quot; title=&quot;IBM Cloud Private, PowerVC &amp;amp; CAM &quot;&gt;&lt;img src=&quot;public/images/videoCAM-ICP-IBMi.png&quot; alt=&quot;IBM Cloud Private, PowerVC &amp;amp; CAM&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/v/ibmi-powervc-cam-icp-demo1&quot; title=&quot;IBM Cloud Private, PowerVC &amp;amp; CAM &quot;&gt;&lt;img src=&quot;/assets/videoCAM-ICP-IBMi.png&quot; alt=&quot;IBM Cloud Private, PowerVC &amp;amp; CAM&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Terraform &amp;amp; CAM sample code here
@@ -141,7 +141,7 @@ https://ibm.box.com/v/icp-private-cloud-for-ai&lt;/li&gt;
 &lt;p&gt;&lt;a href=&quot;./UII2019.md&quot;&gt;Université IBM i 2019&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;private-ai-architecture-----powerai-wml&quot;&gt;Private AI Architecture  -  PowerAI-WML&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/s/gpa8bgzjokmtc84ierigfc0jpg85tlnh&quot; title=&quot;PowerAI WML directions &quot;&gt;&lt;img src=&quot;public/images/POWERAI-WML-Private-AI-Architecture.jpg&quot; alt=&quot;Private AI with PowerAI &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/s/gpa8bgzjokmtc84ierigfc0jpg85tlnh&quot; title=&quot;PowerAI WML directions &quot;&gt;&lt;img src=&quot;/assets/POWERAI-WML-Private-AI-Architecture.jpg&quot; alt=&quot;Private AI with PowerAI &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;driverless-ai--icp-on-power9&quot;&gt;&lt;strong&gt;Driverless AI &amp;amp; ICP on POWER9&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -149,7 +149,7 @@ https://ibm.box.com/v/icp-private-cloud-for-ai&lt;/li&gt;
   &lt;li&gt;First demonstration:&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/v/h2odai-power-demo1&quot; title=&quot;h2o.ai Driverless AI on POWER9 video 1 &quot;&gt;&lt;img src=&quot;public/images/h2odai-video.jpg&quot; alt=&quot;Private AI with ICP, h2o.ai Driverless AI on POWER9/NVLink &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/v/h2odai-power-demo1&quot; title=&quot;h2o.ai Driverless AI on POWER9 video 1 &quot;&gt;&lt;img src=&quot;/assets/h2odai-video.jpg&quot; alt=&quot;Private AI with ICP, h2o.ai Driverless AI on POWER9/NVLink &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
 &lt;p&gt;benoit.marolleau@fr.ibm.com&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry></feed>

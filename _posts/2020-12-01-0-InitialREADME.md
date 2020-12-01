@@ -6,7 +6,7 @@ categories: jekyll update
 
 ---
 
-[![IBMi App Mod ](public/images/M3.png)](https://ibm.ent.box.com/v/appmod-ocp-power-demo1 "Modernization with OpenShift : replatforming ")
+[![IBMi App Mod ](/assets/M3.png)](https://ibm.ent.box.com/v/appmod-ocp-power-demo1 "Modernization with OpenShift : replatforming ")
 
 ## Application Modernization Journey in the multi Cloud era
 
@@ -61,7 +61,7 @@ A first step to AI with IBM i Apps, using Open Source technologies for Machine L
 A sample jupyter notebook here to illustrate the use of WML from a Python Notebook: https://github.com/bmarolleau/gosales-ibmi
 
 - Presentation: 
-[![Watson Studio WML intro - AI IBM i ](public/images/dsx-ibmi.jpg)](https://ibm.box.com/v/ibmi-opensource-watsonstudio "Watson Studio WML intro - AI IBM i")
+[![Watson Studio WML intro - AI IBM i ](/assets/dsx-ibmi.jpg)](https://ibm.box.com/v/ibmi-opensource-watsonstudio "Watson Studio WML intro - AI IBM i")
 - Soon you'll see how to use Driverless AI & PowerAI Vision from IBM i for creating a recommendation engine or other augmented apps using Open Source on i. 
 
 ### Get Started with IBM Cloud & AI , Watson IoT , IBM Watson
@@ -70,7 +70,7 @@ The Labs I created & use for Tech Sales on-boarding sessions,  IBM Cloud & Watso
 
 ### **Watson Studio** & **Watson Studio Local**  with an IoT/ Predictive Maintenance example:   
   - Presentation:  
- [![Watson Studio intro - hybrid Cloud IoT ](public/images/dsx-iot-1.jpg)](https://ibm.box.com/v/iot-watsonstudio-maximo "Watson Studio intro - hybrid Cloud IoT")
+ [![Watson Studio intro - hybrid Cloud IoT ](/assets/dsx-iot-1.jpg)](https://ibm.box.com/v/iot-watsonstudio-maximo "Watson Studio intro - hybrid Cloud IoT")
  
   - Demo  https://ibm.ent.box.com/v/power-iot-dsx-video-mp4  
 
@@ -82,7 +82,7 @@ The Labs I created & use for Tech Sales on-boarding sessions,  IBM Cloud & Watso
 - Presentation on the Demo Portal  :  https://ibm.box.com/v/icp-ibmi-modernization
 - Video: A "Foundation" scenario using IBM Cloud Private, PowerVC & CAM for Multi Cloud automation & IaaS  , soon enriched with CI / CD.
 
-[![IBM Cloud Private, PowerVC & CAM](public/images/videoCAM-ICP-IBMi.png)](https://ibm.box.com/v/ibmi-powervc-cam-icp-demo1 "IBM Cloud Private, PowerVC & CAM ")
+[![IBM Cloud Private, PowerVC & CAM](/assets/videoCAM-ICP-IBMi.png)](https://ibm.box.com/v/ibmi-powervc-cam-icp-demo1 "IBM Cloud Private, PowerVC & CAM ")
  
   - Terraform & CAM sample code here 
 	  -  https://github.com/bmarolleau/IBMPower/tree/master/OpenStack/terraform/hcl/single-vm-deploy
@@ -113,13 +113,13 @@ https://ibm.box.com/v/icp-private-cloud-for-ai
 [Université IBM i 2019](./UII2019.md)
 
 ### Private AI Architecture  -  PowerAI-WML
-[![Private AI with PowerAI ](public/images/POWERAI-WML-Private-AI-Architecture.jpg)](https://ibm.box.com/s/gpa8bgzjokmtc84ierigfc0jpg85tlnh "PowerAI WML directions ")
+[![Private AI with PowerAI ](/assets/POWERAI-WML-Private-AI-Architecture.jpg)](https://ibm.box.com/s/gpa8bgzjokmtc84ierigfc0jpg85tlnh "PowerAI WML directions ")
 
 ### **Driverless AI & ICP on POWER9** 
   - Presentation :  [AI to do AI](./public/presentations/H2O_Driverless_AI_on_Power-_AI_to_do_AI_AA.pdf)
   - First demonstration:
 
-[![Private AI with ICP, h2o.ai Driverless AI on POWER9/NVLink ](public/images/h2odai-video.jpg)](https://ibm.box.com/v/h2odai-power-demo1 "h2o.ai Driverless AI on POWER9 video 1 ")
+[![Private AI with ICP, h2o.ai Driverless AI on POWER9/NVLink ](/assets/h2odai-video.jpg)](https://ibm.box.com/v/h2odai-power-demo1 "h2o.ai Driverless AI on POWER9 video 1 ")
 
 
 ## Contact 
