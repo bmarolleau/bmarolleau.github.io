@@ -26,8 +26,12 @@ Examples of [modernisation use cases & assets presentation](https://ibm.box.com/
 - Integration / API Mgt :  [Web Services / API Management on IBM i](https://ibm.box.com/s/1yh6odomylwxwurs7yycf1dw1r7vj1go) : Node-RED/ LoopBack on IBM i , Cloud Pak for Integration.   
 
 ## Ops & Infrastructure Modernization - Assets (Presentations, Videos)
-[IBM i - Infrastructure Modernization](https://ibm.box.com/s/kwb33pjykxbjvui3f379if7eckiizvqz)  What's new : Business Continuity (PowerHA, Db2 Mirror) ,  Cloud Computing (IBM Cloud..)
-[IBM i on IBM Cloud](https://ibm.ent.box.com/v/psvs-focus-ibmi) - Deep Dive (Offering, HA/DR, Backup) -  [Demonstration](https://youtu.be/RywSfXT_LLs) (video)
+- [IBM i - Infrastructure Modernization](https://ibm.box.com/s/kwb33pjykxbjvui3f379if7eckiizvqz)  
+  What's new : Business Continuity (PowerHA, Db2 Mirror) ,  Cloud Computing (IBM Cloud..)
+
+- [IBM i on IBM Cloud](https://ibm.ent.box.com/v/psvs-focus-ibmi) - Deep Dive (Offering, HA/DR, Backup) 
+
+-  [Demonstration](https://youtu.be/RywSfXT_LLs) (video)
 
 ## MOP Design Workshops - How can we help you? 
 
