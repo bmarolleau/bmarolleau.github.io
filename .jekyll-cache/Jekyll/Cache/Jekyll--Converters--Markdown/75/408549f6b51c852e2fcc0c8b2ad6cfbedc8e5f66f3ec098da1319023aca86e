@@ -1,0 +1,35 @@
+I"=<p>Just humbly sharing a few things about <strong>Cloud Computing</strong>, <strong>Machine Learning</strong> , <strong>Application Modernization</strong>, <strong>IBM i</strong> &amp; <strong>DevOps</strong> .  All based on customer projects, as a Pre-Sales Cloud/AI Architect @ the IBM Systems Center, Montpellier.</p>
+
+<p>Content will be enriched continuously, stay tuned!  and feel free to contact me for complementary information, pptx files, live demos or questions! benoit.marolleau@fr.ibm.com</p>
+
+<p><a href="https://ibm.ent.box.com/v/appmod-ocp-power-demo1" title="Modernization with OpenShift : replatforming "><img src="/assets/M3.png" alt="IBMi App Mod " /></a></p>
+
+<h2 id="application-modernization-journey-in-the-multi-cloud-era">Application Modernization Journey in the multi Cloud era</h2>
+
+<h3 id="app-modernization--red-hat---mop-assets-presentations-videos-on-open-source--cloud-paks--red-hat-openshift">App Modernization &amp; Red Hat - MOP Assets (Presentations, Videos) on Open Source / Cloud Paks / Red Hat OpenShift</h3>
+<p>Examples of <a href="https://ibm.box.com/v/ibmi-modernization-assets2020">modernisation use cases &amp; assets presentation</a>  &amp; <a href="https://ibm.box.com/v/ibmi-modernization-intro">Modernization Introduction</a> (September 2020)</p>
+<ul>
+  <li><a href="https://youtu.be/fHZjQiXSICQ">Illustration #1 (video) </a>  Infrastructure Modernisation &amp; Ops efficiency by automation - Infrastructure as code , Ansible/ CP4MCM</li>
+  <li><a href="https://www.youtube.com/watch?v=tdStP9Ck4dU">Illustration #2 (video) </a> Leverage your existing estate,  DevOps efficiency : Monolith to Microservice &amp; Integration with Micro-Service Apps. 
+<a href="https://ibm.ent.box.com/v/appmod-ocp-power-demo1">Transformation Advisor / Replatforming</a> demo pptx (traditional WebSphere on IBM i to OpenShift)</li>
+  <li>
+    <p><a href="https://www.youtube.com/watch?v=QemqAzpyJPc">Illustration #3 (video)</a> Enrich / Augment your apps with Micro-services , API integration, AI with Watson, containerized ML - H2O, CP4D</p>
+  </li>
+  <li>
+    <p>Why Open Source &amp; OpenShift ? : <a href="https://ibm.box.com/v/ocp-opensource-ibmi">Original version</a>  and <a href="https://ibm.box.com/v/why-ocp-ibmi-reloaded">Version 2: Reloaded</a> : focus on traditional environments (AIX/IBM i), CP4MCM, CP4Apps &amp; micro-service journey</p>
+  </li>
+  <li>Why Ansible ? <a href="https://ibmsystemsmag.com/Power-Systems/10/2020/automation-ansible-ibm-i">Business Value of Ansible and IBM i on IBM Systems Mag</a></li>
+  <li>Integration / API Mgt :  <a href="https://ibm.box.com/s/1yh6odomylwxwurs7yycf1dw1r7vj1go">Web Services / API Management on IBM i</a> : Node-RED/ LoopBack on IBM i , Cloud Pak for Integration.</li>
+</ul>
+
+<h2 id="ops--infrastructure-modernization---assets-presentations-videos">Ops &amp; Infrastructure Modernization - Assets (Presentations, Videos)</h2>
+<p><a href="https://ibm.box.com/s/kwb33pjykxbjvui3f379if7eckiizvqz">IBM i - Infrastructure Modernization</a>  What’s new : Business Continuity (PowerHA, Db2 Mirror) ,  Cloud Computing (IBM Cloud..)
+<a href="https://ibm.ent.box.com/v/psvs-focus-ibmi">IBM i on IBM Cloud</a> - Deep Dive (Offering, HA/DR, Backup) -  <a href="https://youtu.be/RywSfXT_LLs">Demonstration</a> (video)</p>
+
+<h2 id="mop-design-workshops---how-can-we-help-you">MOP Design Workshops - How can we help you?</h2>
+
+<p>Example of previous <a href="https://ibm.box.com/s/peor234x7hms4lfhiwy4ay9dd37pz05g">workshops</a> on similar subjects (focus IBMi here, on specific customer use case)</p>
+
+<h2 id="contact">Contact</h2>
+<p>benoit.marolleau@fr.ibm.com</p>
+:ET
