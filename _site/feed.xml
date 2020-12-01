@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-01T12:28:36+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Benoit Marolleau’s Blog</title><subtitle>A blog containing various assets, and sharing, based on real-life projects #Cloud #AI #IBMi #RedHat #OpenSource</subtitle><entry><title type="html">Application Modernization Journey in the multi Cloud era!</title><link href="http://localhost:4000/jekyll/update/2020/12/01/maincontent.html" rel="alternate" type="text/html" title="Application Modernization Journey in the multi Cloud era!" /><published>2020-12-01T10:51:57+01:00</published><updated>2020-12-01T10:51:57+01:00</updated><id>http://localhost:4000/jekyll/update/2020/12/01/maincontent</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/12/01/maincontent.html">&lt;p&gt;&lt;a href=&quot;https://ibm.ent.box.com/v/appmod-ocp-power-demo1&quot; title=&quot;Modernization with OpenShift : replatforming &quot;&gt;&lt;img src=&quot;/assets/M3.png&quot; alt=&quot;IBMi App Mod &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-01T16:56:03+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Benoit Marolleau’s Blog</title><subtitle>A blog containing various assets, and sharing, based on real-life projects #Cloud #AI #IBMi #RedHat #OpenSource</subtitle><entry><title type="html">Application &amp;amp; Ops Modernization Journey in the multi Cloud era!</title><link href="http://localhost:4000/jekyll/update/2020/12/01/0-AppMod.html" rel="alternate" type="text/html" title="Application &amp;amp; Ops Modernization Journey in the multi Cloud era!" /><published>2020-12-01T10:51:57+01:00</published><updated>2020-12-01T10:51:57+01:00</updated><id>http://localhost:4000/jekyll/update/2020/12/01/0-AppMod</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/12/01/0-AppMod.html">&lt;p&gt;&lt;a href=&quot;https://ibm.ent.box.com/v/appmod-ocp-power-demo1&quot; title=&quot;Modernization with OpenShift : replatforming &quot;&gt;&lt;img src=&quot;/assets/M3.png&quot; alt=&quot;IBMi App Mod &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;!-- ## Application Modernization Journey in the multi Cloud era --&gt;
+&lt;!-- ## Application &amp; Ops Modernization Journey in the multi Cloud era --&gt;
 
 &lt;h3 id=&quot;app-modernization--red-hat---mop-assets-presentations-videos-on-open-source--cloud-paks--red-hat-openshift&quot;&gt;App Modernization &amp;amp; Red Hat - MOP Assets (Presentations, Videos) on Open Source / Cloud Paks / Red Hat OpenShift&lt;/h3&gt;
 &lt;p&gt;Examples of &lt;a href=&quot;https://ibm.box.com/v/ibmi-modernization-assets2020&quot;&gt;modernisation use cases &amp;amp; assets presentation&lt;/a&gt;  &amp;amp; &lt;a href=&quot;https://ibm.box.com/v/ibmi-modernization-intro&quot;&gt;Modernization Introduction&lt;/a&gt; (September 2020)&lt;/p&gt;
@@ -19,5 +19,131 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;ops--infrastructure-modernization---assets-presentations-videos&quot;&gt;Ops &amp;amp; Infrastructure Modernization - Assets (Presentations, Videos)&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/s/kwb33pjykxbjvui3f379if7eckiizvqz&quot;&gt;IBM i - Infrastructure Modernization&lt;/a&gt;  What’s new : Business Continuity (PowerHA, Db2 Mirror) ,  Cloud Computing (IBM Cloud..)
-&lt;a href=&quot;https://ibm.ent.box.com/v/psvs-focus-ibmi&quot;&gt;IBM i on IBM Cloud&lt;/a&gt; - Deep Dive (Offering, HA/DR, Backup) -  &lt;a href=&quot;https://youtu.be/RywSfXT_LLs&quot;&gt;Demonstration&lt;/a&gt; (video)&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry></feed>
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ibm.box.com/s/kwb33pjykxbjvui3f379if7eckiizvqz&quot;&gt;IBM i - Infrastructure Modernization&lt;/a&gt;  What’s new : Business Continuity (PowerHA, Db2 Mirror) ,  Cloud Computing (IBM Cloud..)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ibm.ent.box.com/v/psvs-focus-ibmi&quot;&gt;IBM i on IBM Cloud&lt;/a&gt; - Deep Dive (Offering, HA/DR, Backup) -  &lt;a href=&quot;https://youtu.be/RywSfXT_LLs&quot;&gt;Demonstration&lt;/a&gt; (video)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mop-design-workshops---how-can-we-help-you&quot;&gt;MOP Design Workshops - How can we help you?&lt;/h2&gt;
+
+&lt;p&gt;Example of previous &lt;a href=&quot;https://ibm.box.com/s/peor234x7hms4lfhiwy4ay9dd37pz05g&quot;&gt;workshops&lt;/a&gt; on similar subjects (focus IBMi here, on specific customer use case)&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry><entry><title type="html">Latest Content, Multi-Cloud, Machine Learning &amp;amp; Accelered ML</title><link href="http://localhost:4000/jekyll/update/2020/12/01/1-Latest-Content-AI,-Cloud.html" rel="alternate" type="text/html" title="Latest Content, Multi-Cloud, Machine Learning &amp;amp; Accelered ML" /><published>2020-12-01T10:51:57+01:00</published><updated>2020-12-01T10:51:57+01:00</updated><id>http://localhost:4000/jekyll/update/2020/12/01/1-Latest%20Content:%20AI,%20Cloud</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/12/01/1-Latest-Content-AI,-Cloud.html">&lt;h2 id=&quot;1---latest-content&quot;&gt;1 - Latest Content&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;July 2020 - Open Source , OpenShift &amp;amp; App Modernization : &lt;a href=&quot;https://ibm.box.com/v/ocp-opensource-ibmi&quot;&gt;Why OpenShift and OCP for IBM i modernization?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;June 2020 - Cool Presentation &amp;amp; Demo - &lt;a href=&quot;https://ibm.box.com/v/machinelearning-ibmi&quot;&gt;Augment your Apps with H2O Driverless AI, Scikit-Learn &amp;amp; Machine Learning on IBM i&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;power-systems-in-the-multicloud-era---video-series-2q2020&quot;&gt;Power Systems in the Multicloud Era - Video Series 2Q2020&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Get Started with IBM Cloud Power Virtual Server &amp;amp; AIX/IBM i : &lt;a href=&quot;https://youtu.be/RywSfXT_LLs&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Automation with Terraform, IBM Cloud Pak for MCM   &lt;a href=&quot;https://youtu.be/fHZjQiXSICQ&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;June 2020 - &lt;a href=&quot;https://ibm.box.com/v/psvs-focus-ibmi&quot;&gt;Introduction to Power Virtual Server, Deep Dive , HA/DR &amp;amp; Object Storage backup&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;June 2020 - &lt;a href=&quot;https://ibm.box.com/v/ibmi-api-integration&quot;&gt;IBM i Integration&lt;/a&gt; : Web Services, Node-red, Loopback, APIM, Cloud Pak for Integration intro&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2---machine-learning&quot;&gt;2 - Machine Learning&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;IBM i &amp;amp; Machine Learning : &lt;a href=&quot;https://ibm.box.com/s/kgi29tk40bzbq4ofsyu2drb55glcrqk8&quot;&gt;Demonstrations Summary&lt;/a&gt;  (details below)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;IBM ML Solutions Overview: &lt;a href=&quot;https://ibm.box.com/s/7paum9h4klekmadyldu9f3fo2v4j1hvp&quot;&gt;Watson ML, PowerAI, Paks, H2O on POWER9 - focus IoT Predictive Maintenance&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;accelerated-auto-ml-with-h20-driverless-ai---focus-on-ibm-iaix---septoct-2019-&quot;&gt;Accelerated Auto ML with H20 Driverless AI - Focus on IBM i/AIX - Sept/Oct 2019 **&lt;/h3&gt;
+&lt;p&gt;Live Talk in IBM Tech University Las Vegas (Oct 10th) , Prague (Oct 24th) &lt;a href=&quot;http://ibm.biz/PowerVUG&quot;&gt;PowerVUG webinar&lt;/a&gt; (Oct 16th)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/QemqAzpyJPc&quot;&gt;Video on Youtube (PowerVUG Channel)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://public.dhe.ibm.com/systems/power/community/aix/PowerVM_webinars/89_Smarter_apps_with_ML_and_H2O.pdf&quot;&gt;PowerVUG Presentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ibm.box.com/v/ibmi-dai-demo-deck&quot;&gt;Demo Presentation H2O &amp;amp; IBM i/AIX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ibm.box.com/v/ibmi-dai-demo&quot;&gt;Demo Video H2O &amp;amp; IBM i/AIX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ibm.com/systems/clientcenterdemonstrations/faces/dcDemoView.jsp?demoId=3282&quot;&gt;Demo Link on the IBM WW Demo Portal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ibm-i--ai--watson-studio--watson-machine-learning&quot;&gt;IBM i , AI &amp;amp; Watson Studio / Watson Machine Learning&lt;/h3&gt;
+&lt;p&gt;A first step to AI with IBM i Apps, using Open Source technologies for Machine Learning, and DSX aka IBM Watson Studio&lt;/p&gt;
+
+&lt;p&gt;A sample jupyter notebook here to illustrate the use of WML from a Python Notebook: https://github.com/bmarolleau/gosales-ibmi&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Presentation: 
+&lt;a href=&quot;https://ibm.box.com/v/ibmi-opensource-watsonstudio&quot; title=&quot;Watson Studio WML intro - AI IBM i&quot;&gt;&lt;img src=&quot;/assets/dsx-ibmi.jpg&quot; alt=&quot;Watson Studio WML intro - AI IBM i &quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Soon you’ll see how to use Driverless AI &amp;amp; PowerAI Vision from IBM i for creating a recommendation engine or other augmented apps using Open Source on i.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;get-started-with-ibm-cloud--ai--watson-iot--ibm-watson&quot;&gt;Get Started with IBM Cloud &amp;amp; AI , Watson IoT , IBM Watson&lt;/h3&gt;
+&lt;p&gt;The Labs I created &amp;amp; use for Tech Sales on-boarding sessions,  IBM Cloud &amp;amp; Watson days in Universities &amp;amp; engineering schools.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;IBM Cloud &amp;amp; Watson Day Labs  http://ibmcloud-watson-day.mybluemix.net/&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;watson-studio--watson-studio-local--with-an-iot-predictive-maintenance-example&quot;&gt;&lt;strong&gt;Watson Studio&lt;/strong&gt; &amp;amp; &lt;strong&gt;Watson Studio Local&lt;/strong&gt;  with an IoT/ Predictive Maintenance example:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Presentation:&lt;br /&gt;
+ &lt;a href=&quot;https://ibm.box.com/v/iot-watsonstudio-maximo&quot; title=&quot;Watson Studio intro - hybrid Cloud IoT&quot;&gt;&lt;img src=&quot;/assets/dsx-iot-1.jpg&quot; alt=&quot;Watson Studio intro - hybrid Cloud IoT &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Demo  https://ibm.ent.box.com/v/power-iot-dsx-video-mp4&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">1 - Latest Content July 2020 - Open Source , OpenShift &amp;amp; App Modernization : Why OpenShift and OCP for IBM i modernization? June 2020 - Cool Presentation &amp;amp; Demo - Augment your Apps with H2O Driverless AI, Scikit-Learn &amp;amp; Machine Learning on IBM i</summary></entry><entry><title type="html">Cloud, Kubernetes, Cloud Paks for app modernization</title><link href="http://localhost:4000/jekyll/update/2020/12/01/2-Cloud.html" rel="alternate" type="text/html" title="Cloud, Kubernetes, Cloud Paks for app modernization" /><published>2020-12-01T10:51:57+01:00</published><updated>2020-12-01T10:51:57+01:00</updated><id>http://localhost:4000/jekyll/update/2020/12/01/2-Cloud</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/12/01/2-Cloud.html">&lt;h2 id=&quot;3---cloud-kubernetes-openshift--ibm-cloud-paks-multi-cloud--application-modernization&quot;&gt;3 - Cloud, Kubernetes, OpenShift &amp;amp; IBM Cloud Paks, Multi-cloud : Application Modernization&lt;/h2&gt;
+
+&lt;h3 id=&quot;why-containerize-your-apps-k8s-multi-cloud-introduction&quot;&gt;&lt;a href=&quot;https://ibm.box.com/v/containers-modernization-K8s&quot;&gt;Why Containerize your Apps? K8s, Multi-cloud Introduction&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;ibm-cloud-paks-value&quot;&gt;&lt;a href=&quot;https://ibm.box.com/s/5ifo3pvhn9tr249qwplccowwppm9wwvd&quot;&gt;IBM Cloud Paks Value&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Presentation on the Demo Portal  :  https://ibm.box.com/v/icp-ibmi-modernization&lt;/li&gt;
+  &lt;li&gt;Video: A “Foundation” scenario using IBM Cloud Private, PowerVC &amp;amp; CAM for Multi Cloud automation &amp;amp; IaaS  , soon enriched with CI / CD.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/v/ibmi-powervc-cam-icp-demo1&quot; title=&quot;IBM Cloud Private, PowerVC &amp;amp; CAM &quot;&gt;&lt;img src=&quot;/assets/videoCAM-ICP-IBMi.png&quot; alt=&quot;IBM Cloud Private, PowerVC &amp;amp; CAM&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Terraform &amp;amp; CAM sample code here
+    &lt;ul&gt;
+      &lt;li&gt;https://github.com/bmarolleau/IBMPower/tree/master/OpenStack/terraform/hcl/single-vm-deploy&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ibm-cloud-private-and-k8s-for-ai---deep-learning-aivision--driverless-ai-as-a-service&quot;&gt;IBM Cloud Private and K8s for AI - Deep Learning, AIVision &amp;amp; Driverless AI as a Service&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Presentation Private Cloud for AI :  Behind the Scenes **Work in progress
+https://ibm.box.com/v/icp-private-cloud-for-ai&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;prototyping-with-purpose-node-red&quot;&gt;Prototyping with Purpose: Node-RED&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To get started with Node-RED, refer to my web site http://ibmcloud-watson-day.mybluemix.net/&lt;/li&gt;
+  &lt;li&gt;For ease of use, I wrote this Db2 for i in Node-RED :    https://flows.nodered.org/node/node-red-contrib-db2-for-i&lt;/li&gt;
+  &lt;li&gt;This tutorial (IBM i or other platforms) for  &lt;a href=&quot;https://ibmcloud-watson-day.mybluemix.net/files/Lab.Node-RED-SocialDashboard.pdf&quot;&gt;Node-RED &amp;amp; Db2 for i with Watson&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Reference docs:
+    &lt;ul&gt;
+      &lt;li&gt;First of all, an excellent article for installing Node-RED on IBM i  https://developer.ibm.com/tutorials/i-running-node-red/&lt;/li&gt;
+      &lt;li&gt;https://github.com/IBMDeveloperUK/NodeRED-for-AI-flows/blob/master/ibmi/ibmi-nodered.md&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">3 - Cloud, Kubernetes, OpenShift &amp;amp; IBM Cloud Paks, Multi-cloud : Application Modernization</summary></entry><entry><title type="html">Misc Presentations, H2O Driverless AI…</title><link href="http://localhost:4000/jekyll/update/2020/12/01/3-Misc.html" rel="alternate" type="text/html" title="Misc Presentations, H2O Driverless AI…" /><published>2020-12-01T10:51:57+01:00</published><updated>2020-12-01T10:51:57+01:00</updated><id>http://localhost:4000/jekyll/update/2020/12/01/3-Misc</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/12/01/3-Misc.html">&lt;h2 id=&quot;4---miscellaneous-presentations--demos&quot;&gt;4 - Miscellaneous Presentations &amp;amp; Demos&lt;/h2&gt;
+
+&lt;h3 id=&quot;powerai-vision-114-intro--demo&quot;&gt;&lt;a href=&quot;https://ibm.box.com/shared/static/jttt4e31boksoaph1b8hlh1vgk6nmb33.pdf&quot;&gt;PowerAI Vision 1.1.4 Intro &amp;amp; Demo&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;common-europe-congress---may-2019&quot;&gt;COMMON Europe Congress - May 2019**&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/shared/static/6s3d03gpp1on6rc2e18nk7s2n15kvtuy.pdf&quot;&gt;Watson Machine Learning - IBM i use cases and demos&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;presentations--demos-from-the-université-ibm-i---may-2019&quot;&gt;Presentations &amp;amp; Demos from the Université IBM i - May 2019**&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;./UII2019.md&quot;&gt;Université IBM i 2019&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;private-ai-architecture-----powerai-wml&quot;&gt;Private AI Architecture  -  PowerAI-WML&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/s/gpa8bgzjokmtc84ierigfc0jpg85tlnh&quot; title=&quot;PowerAI WML directions &quot;&gt;&lt;img src=&quot;/assets/POWERAI-WML-Private-AI-Architecture.jpg&quot; alt=&quot;Private AI with PowerAI &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;driverless-ai--icp-on-power9&quot;&gt;&lt;strong&gt;Driverless AI &amp;amp; ICP on POWER9&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Presentation :  &lt;a href=&quot;./public/presentations/H2O_Driverless_AI_on_Power-_AI_to_do_AI_AA.pdf&quot;&gt;AI to do AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;First demonstration:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/v/h2odai-power-demo1&quot; title=&quot;h2o.ai Driverless AI on POWER9 video 1 &quot;&gt;&lt;img src=&quot;/assets/h2odai-video.jpg&quot; alt=&quot;Private AI with ICP, h2o.ai Driverless AI on POWER9/NVLink &quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">4 - Miscellaneous Presentations &amp;amp; Demos</summary></entry></feed>

@@ -1,0 +1,40 @@
+I"	<h2 id="3---cloud-kubernetes-openshift--ibm-cloud-paks-multi-cloud--application-modernization">3 - Cloud, Kubernetes, OpenShift &amp; IBM Cloud Paks, Multi-cloud : Application Modernization</h2>
+
+<h3 id="why-containerize-your-apps-k8s-multi-cloud-introduction"><a href="https://ibm.box.com/v/containers-modernization-K8s">Why Containerize your Apps? K8s, Multi-cloud Introduction</a></h3>
+
+<h3 id="ibm-cloud-paks-value"><a href="https://ibm.box.com/s/5ifo3pvhn9tr249qwplccowwppm9wwvd">IBM Cloud Paks Value</a></h3>
+<ul>
+  <li>Presentation on the Demo Portal  :  https://ibm.box.com/v/icp-ibmi-modernization</li>
+  <li>Video: A “Foundation” scenario using IBM Cloud Private, PowerVC &amp; CAM for Multi Cloud automation &amp; IaaS  , soon enriched with CI / CD.</li>
+</ul>
+
+<p><a href="https://ibm.box.com/v/ibmi-powervc-cam-icp-demo1" title="IBM Cloud Private, PowerVC &amp; CAM "><img src="/assets/videoCAM-ICP-IBMi.png" alt="IBM Cloud Private, PowerVC &amp; CAM" /></a></p>
+
+<ul>
+  <li>Terraform &amp; CAM sample code here
+    <ul>
+      <li>https://github.com/bmarolleau/IBMPower/tree/master/OpenStack/terraform/hcl/single-vm-deploy</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="ibm-cloud-private-and-k8s-for-ai---deep-learning-aivision--driverless-ai-as-a-service">IBM Cloud Private and K8s for AI - Deep Learning, AIVision &amp; Driverless AI as a Service</h3>
+<ul>
+  <li>Presentation Private Cloud for AI :  Behind the Scenes **Work in progress
+https://ibm.box.com/v/icp-private-cloud-for-ai</li>
+</ul>
+
+<h3 id="prototyping-with-purpose-node-red">Prototyping with Purpose: Node-RED</h3>
+
+<ul>
+  <li>To get started with Node-RED, refer to my web site http://ibmcloud-watson-day.mybluemix.net/</li>
+  <li>For ease of use, I wrote this Db2 for i in Node-RED :    https://flows.nodered.org/node/node-red-contrib-db2-for-i</li>
+  <li>This tutorial (IBM i or other platforms) for  <a href="https://ibmcloud-watson-day.mybluemix.net/files/Lab.Node-RED-SocialDashboard.pdf">Node-RED &amp; Db2 for i with Watson</a></li>
+  <li>Reference docs:
+    <ul>
+      <li>First of all, an excellent article for installing Node-RED on IBM i  https://developer.ibm.com/tutorials/i-running-node-red/</li>
+      <li>https://github.com/IBMDeveloperUK/NodeRED-for-AI-flows/blob/master/ibmi/ibmi-nodered.md</li>
+    </ul>
+  </li>
+</ul>
+:ET
