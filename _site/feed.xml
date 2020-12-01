@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-01T12:28:36+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Benoit Marolleau’s Blog</title><subtitle>A blog containing various assets, and sharing, based on real-life projects #Cloud #AI #IBMi #RedHat #OpenSource</subtitle><entry><title type="html">Application Modernization Journey in the multi Cloud era!</title><link href="http://localhost:4000/jekyll/update/2020/12/01/maincontent.html" rel="alternate" type="text/html" title="Application Modernization Journey in the multi Cloud era!" /><published>2020-12-01T10:51:57+01:00</published><updated>2020-12-01T10:51:57+01:00</updated><id>http://localhost:4000/jekyll/update/2020/12/01/maincontent</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/12/01/maincontent.html">&lt;p&gt;&lt;a href=&quot;https://ibm.ent.box.com/v/appmod-ocp-power-demo1&quot; title=&quot;Modernization with OpenShift : replatforming &quot;&gt;&lt;img src=&quot;/assets/M3.png&quot; alt=&quot;IBMi App Mod &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- ## Application Modernization Journey in the multi Cloud era --&gt;
+
+&lt;h3 id=&quot;app-modernization--red-hat---mop-assets-presentations-videos-on-open-source--cloud-paks--red-hat-openshift&quot;&gt;App Modernization &amp;amp; Red Hat - MOP Assets (Presentations, Videos) on Open Source / Cloud Paks / Red Hat OpenShift&lt;/h3&gt;
+&lt;p&gt;Examples of &lt;a href=&quot;https://ibm.box.com/v/ibmi-modernization-assets2020&quot;&gt;modernisation use cases &amp;amp; assets presentation&lt;/a&gt;  &amp;amp; &lt;a href=&quot;https://ibm.box.com/v/ibmi-modernization-intro&quot;&gt;Modernization Introduction&lt;/a&gt; (September 2020)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/fHZjQiXSICQ&quot;&gt;Illustration #1 (video) &lt;/a&gt;  Infrastructure Modernisation &amp;amp; Ops efficiency by automation - Infrastructure as code , Ansible/ CP4MCM&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tdStP9Ck4dU&quot;&gt;Illustration #2 (video) &lt;/a&gt; Leverage your existing estate,  DevOps efficiency : Monolith to Microservice &amp;amp; Integration with Micro-Service Apps. 
+&lt;a href=&quot;https://ibm.ent.box.com/v/appmod-ocp-power-demo1&quot;&gt;Transformation Advisor / Replatforming&lt;/a&gt; demo pptx (traditional WebSphere on IBM i to OpenShift)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=QemqAzpyJPc&quot;&gt;Illustration #3 (video)&lt;/a&gt; Enrich / Augment your apps with Micro-services , API integration, AI with Watson, containerized ML - H2O, CP4D&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Why Open Source &amp;amp; OpenShift ? : &lt;a href=&quot;https://ibm.box.com/v/ocp-opensource-ibmi&quot;&gt;Original version&lt;/a&gt;  and &lt;a href=&quot;https://ibm.box.com/v/why-ocp-ibmi-reloaded&quot;&gt;Version 2: Reloaded&lt;/a&gt; : focus on traditional environments (AIX/IBM i), CP4MCM, CP4Apps &amp;amp; micro-service journey&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Why Ansible ? &lt;a href=&quot;https://ibmsystemsmag.com/Power-Systems/10/2020/automation-ansible-ibm-i&quot;&gt;Business Value of Ansible and IBM i on IBM Systems Mag&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Integration / API Mgt :  &lt;a href=&quot;https://ibm.box.com/s/1yh6odomylwxwurs7yycf1dw1r7vj1go&quot;&gt;Web Services / API Management on IBM i&lt;/a&gt; : Node-RED/ LoopBack on IBM i , Cloud Pak for Integration.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ops--infrastructure-modernization---assets-presentations-videos&quot;&gt;Ops &amp;amp; Infrastructure Modernization - Assets (Presentations, Videos)&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/s/kwb33pjykxbjvui3f379if7eckiizvqz&quot;&gt;IBM i - Infrastructure Modernization&lt;/a&gt;  What’s new : Business Continuity (PowerHA, Db2 Mirror) ,  Cloud Computing (IBM Cloud..)
+&lt;a href=&quot;https://ibm.ent.box.com/v/psvs-focus-ibmi&quot;&gt;IBM i on IBM Cloud&lt;/a&gt; - Deep Dive (Offering, HA/DR, Backup) -  &lt;a href=&quot;https://youtu.be/RywSfXT_LLs&quot;&gt;Demonstration&lt;/a&gt; (video)&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry></feed>
