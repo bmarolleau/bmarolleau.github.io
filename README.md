@@ -4,7 +4,7 @@ Just humbly sharing a few things about **Cloud Computing**, **Machine Learning**
 
 Content will be enriched continuously, stay tuned!  and feel free to contact me for complementary information, pptx files, live demos or questions! benoit.marolleau@fr.ibm.com
 
-[![IBMi App Mod with OpenShift ](https://github.com/bmarolleau/acmeair-customerservice-java-jdbc/blob/main/OCP-IBMi.png)](https://github.com/bmarolleau/acmeair-customerservice-java-jdbc/blob/main/README.md "End to end IBM i Modernization with OpenShift: Stateful and Stateless worlds together")
+[![IBMi App Mod with OpenShift ](/assets/OCP-IBMi-db2M.png)](https://github.com/bmarolleau/acmeair-customerservice-java-jdbc/blob/main/README.md "End to end IBM i Modernization with OpenShift: Stateful and Stateless worlds together")
 
 [![IBMi App Mod ](public/images/M3.png)](https://ibm.ent.box.com/v/appmod-ocp-power-demo1 "Java Modernization with OpenShift : replatforming ")
 
