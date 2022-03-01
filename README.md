@@ -6,9 +6,9 @@ Content will be enriched continuously, stay tuned!  and feel free to contact me 
 
 [![IBMi App Mod with OpenShift ](/assets/OCP-IBMi-db2M.png)](https://github.com/bmarolleau/acmeair-customerservice-java-jdbc/blob/main/README.md "End to end IBM i Modernization with OpenShift: Stateful and Stateless worlds together")
 
-[![Data Fabric ](public/images/RetailOne-DataFabricDemo.png)](https://github.com/bmarolleau/retailOne/blob/main/README.md "Data Governance and Modernization: Data Fabric, Cloud Pak for Data")
+[![Data Fabric ](/assets/RetailOne-DataFabricDemo.png)](https://github.com/bmarolleau/retailOne/blob/main/README.md "Data Governance and Modernization: Data Fabric, Cloud Pak for Data")
 
-[![IBMi App Mod ](public/images/M3.png)](https://ibm.ent.box.com/v/appmod-ocp-power-demo1 "Java Modernization with OpenShift : replatforming ")
+[![IBMi App Mod ](/assets/M3.png)](https://ibm.ent.box.com/v/appmod-ocp-power-demo1 "Java Modernization with OpenShift : replatforming ")
 
 ## Application Modernization Journey in the multi Cloud era
 
