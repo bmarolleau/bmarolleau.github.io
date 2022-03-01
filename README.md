@@ -1,10 +1,12 @@
-# Welcome to my Blog !! 
+# Welcome to my Blog !! Web Site here: https://bmarolleau.github.io/
 
-Just humbly sharing a few things about **Cloud Computing**, **Machine Learning** , **Application Modernization**, **IBM i** & **DevOps** .  All based on customer projects, as a Pre-Sales Cloud/AI Architect @ the IBM Systems Center, Montpellier.
+Just sharing a few things about **Cloud Computing**, **Machine Learning** , **Application Modernization**, **IBM i** & **DevOps** .  All based on customer projects, as a Pre-Sales Cloud/AI Architect @ IBM Client Engineering | EMEA based in Montpellier, France.
 
 Content will be enriched continuously, stay tuned!  and feel free to contact me for complementary information, pptx files, live demos or questions! benoit.marolleau@fr.ibm.com
 
 [![IBMi App Mod with OpenShift ](/assets/OCP-IBMi-db2M.png)](https://github.com/bmarolleau/acmeair-customerservice-java-jdbc/blob/main/README.md "End to end IBM i Modernization with OpenShift: Stateful and Stateless worlds together")
+
+[![Data Fabric ](public/images/RetailOne-DataFabricDemo.png)](https://github.com/bmarolleau/retailOne/blob/main/README.md "Data Governance and Modernization: Data Fabric, Cloud Pak for Data")
 
 [![IBMi App Mod ](public/images/M3.png)](https://ibm.ent.box.com/v/appmod-ocp-power-demo1 "Java Modernization with OpenShift : replatforming ")
 
