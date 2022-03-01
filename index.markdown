@@ -5,7 +5,7 @@
 layout: home
 ---
 
-A Few things about **Cloud Computing**, **Machine Learning** , **Application Modernization**, **IBM i** & **DevOps** .  All based on customer projects, as a Cloud/AI Architect @ IBM Client Engineering | EMEA based in Montpellier, France.
+A Few things about **Cloud Computing**, **Machine Learning** , **Application Modernization**, **IBM i** & **DevOps** .  All based on customer projects, as a Cloud/AI Architect @ IBM Client Engineering EMEA based in Montpellier, France.
 
 Content will be enriched continuously, stay tuned!  and feel free to contact me for complementary information, pptx files, live demos or questions! benoit.marolleau@fr.ibm.com
 
