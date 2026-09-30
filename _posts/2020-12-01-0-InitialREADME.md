@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Materials: Application & Ops Modernization Journey, AI, Cloud, IoT, Digital Transformation..."
-date:   2020-12-01 10:51:57 +0100
-categories: jekyll update
-
+title: "Archive: App Mod, AI, Cloud & IoT — Early Field Materials (2019–2020)"
+date: 2020-12-01 10:51:57 +0100
+categories: [misc]
+excerpt: "An archive of early field materials — presentations, demos and videos on IBM i App Modernization, OpenShift, Watson ML, H2O Driverless AI, Node-RED, IoT and more from 2019–2020."
 ---
 
 [![IBMi App Mod ](/assets/M3.png)](https://ibm.ent.box.com/v/appmod-ocp-power-demo1 "Modernization with OpenShift : replatforming ")

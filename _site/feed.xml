@@ -1,163 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-01T17:15:00+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Benoit Marolleau’s Blog</title><subtitle>A blog containing various assets, and sharing, based on real-life projects #Cloud #AI #IBMi #RedHat #OpenSource</subtitle><entry><title type="html">Materials: Application &amp;amp; Ops Modernization Journey, AI, Cloud, IoT, Digital Transformation…</title><link href="http://localhost:4000/jekyll/update/2020/12/01/0-InitialREADME.html" rel="alternate" type="text/html" title="Materials: Application &amp;amp; Ops Modernization Journey, AI, Cloud, IoT, Digital Transformation…" /><published>2020-12-01T10:51:57+01:00</published><updated>2020-12-01T10:51:57+01:00</updated><id>http://localhost:4000/jekyll/update/2020/12/01/0-InitialREADME</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/12/01/0-InitialREADME.html">&lt;p&gt;&lt;a href=&quot;https://ibm.ent.box.com/v/appmod-ocp-power-demo1&quot; title=&quot;Modernization with OpenShift : replatforming &quot;&gt;&lt;img src=&quot;/assets/M3.png&quot; alt=&quot;IBMi App Mod &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-09-30T22:43:43+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Field Notes</title><subtitle>AI · IBM i &amp; Z · Cloud · IoT · DevOps — real projects, honest notes.</subtitle><author><name>Benoit Marolleau</name></author><entry><title type="html">Event: Bob &amp;amp; Premium Package for i — Partner Enablement, Oct 8th 2026</title><link href="http://localhost:4000/ai-bob/2026/10/08/bob-premium-package-i-partner-enablement.html" rel="alternate" type="text/html" title="Event: Bob &amp;amp; Premium Package for i — Partner Enablement, Oct 8th 2026" /><published>2026-10-08T11:00:00+02:00</published><updated>2026-10-08T11:00:00+02:00</updated><id>http://localhost:4000/ai-bob/2026/10/08/bob-premium-package-i-partner-enablement</id><content type="html" xml:base="http://localhost:4000/ai-bob/2026/10/08/bob-premium-package-i-partner-enablement.html"><![CDATA[<p><a href="https://ibm.biz/~Tm1A9Rwut"><img src="/assets/BP_enablement_video_800-ezgif.com-crop.gif" alt="IBM Bob Premium Package for i — Enablement for Partners 2H2026" /></a></p>
 
-&lt;h2 id=&quot;application-modernization-journey-in-the-multi-cloud-era&quot;&gt;Application Modernization Journey in the multi Cloud era&lt;/h2&gt;
+<p>📅 <strong>October 8th, 2026 · 10:00–12:00 CET · Online · Free</strong></p>
 
-&lt;h3 id=&quot;app-modernization--red-hat---mop-assets-presentations-videos-on-open-source--cloud-paks--red-hat-openshift&quot;&gt;App Modernization &amp;amp; Red Hat - MOP Assets (Presentations, Videos) on Open Source / Cloud Paks / Red Hat OpenShift&lt;/h3&gt;
-&lt;p&gt;Examples of &lt;a href=&quot;https://ibm.box.com/v/ibmi-modernization-assets2020&quot;&gt;modernisation use cases &amp;amp; assets presentation&lt;/a&gt;  &amp;amp; &lt;a href=&quot;https://ibm.box.com/v/ibmi-modernization-intro&quot;&gt;Modernization Introduction&lt;/a&gt; (September 2020)&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://youtu.be/fHZjQiXSICQ&quot;&gt;Illustration #1 (video) &lt;/a&gt;  Infrastructure Modernisation &amp;amp; Ops efficiency by automation - Infrastructure as code , Ansible/ CP4MCM&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tdStP9Ck4dU&quot;&gt;Illustration #2 (video) &lt;/a&gt; Leverage your existing estate,  DevOps efficiency : Monolith to Microservice &amp;amp; Integration with Micro-Service Apps. 
-&lt;a href=&quot;https://ibm.ent.box.com/v/appmod-ocp-power-demo1&quot;&gt;Transformation Advisor / Replatforming&lt;/a&gt; demo pptx (traditional WebSphere on IBM i to OpenShift)&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=QemqAzpyJPc&quot;&gt;Illustration #3 (video)&lt;/a&gt; Enrich / Augment your apps with Micro-services , API integration, AI with Watson, containerized ML - H2O, CP4D&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Why Open Source &amp;amp; OpenShift ? : &lt;a href=&quot;https://ibm.box.com/v/ocp-opensource-ibmi&quot;&gt;Original version&lt;/a&gt;  and &lt;a href=&quot;https://ibm.box.com/v/why-ocp-ibmi-reloaded&quot;&gt;Version 2: Reloaded&lt;/a&gt; : focus on traditional environments (AIX/IBM i), CP4MCM, CP4Apps &amp;amp; micro-service journey&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Why Ansible ? &lt;a href=&quot;https://ibmsystemsmag.com/Power-Systems/10/2020/automation-ansible-ibm-i&quot;&gt;Business Value of Ansible and IBM i on IBM Systems Mag&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Integration / API Mgt :  &lt;a href=&quot;https://ibm.box.com/s/1yh6odomylwxwurs7yycf1dw1r7vj1go&quot;&gt;Web Services / API Management on IBM i&lt;/a&gt; : Node-RED/ LoopBack on IBM i , Cloud Pak for Integration.&lt;/li&gt;
-&lt;/ul&gt;
+<p>A 2-hour workshop for IBM Business Partners to confidently position and demonstrate <strong>IBM Bob</strong> and <strong>IBM i</strong> to customers. Agenda: IBM i development for beginners, Bob Premium Package for i 2.0 deep dive, hands-on labs and materials.</p>
 
-&lt;h2 id=&quot;ops--infrastructure-modernization---assets-presentations-videos&quot;&gt;Ops &amp;amp; Infrastructure Modernization - Assets (Presentations, Videos)&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://ibm.box.com/s/kwb33pjykxbjvui3f379if7eckiizvqz&quot;&gt;IBM i - Infrastructure Modernization&lt;/a&gt;&lt;br /&gt;
-What’s new : Business Continuity (PowerHA, Db2 Mirror) ,  Cloud Computing (IBM Cloud..)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://ibm.ent.box.com/v/psvs-focus-ibmi&quot;&gt;IBM i on IBM Cloud&lt;/a&gt; - Deep Dive (Offering, HA/DR, Backup)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://youtu.be/RywSfXT_LLs&quot;&gt;Demonstration&lt;/a&gt; (video)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+<p><strong><a href="https://ibm.biz/~Tm1A9Rwut">→ Register here</a></strong></p>
 
-&lt;h2 id=&quot;mop-design-workshops---how-can-we-help-you&quot;&gt;MOP Design Workshops - How can we help you?&lt;/h2&gt;
+<hr />
 
-&lt;p&gt;Example of previous &lt;a href=&quot;https://ibm.box.com/s/peor234x7hms4lfhiwy4ay9dd37pz05g&quot;&gt;workshops&lt;/a&gt; on similar subjects (focus IBMi here, on specific customer use case)&lt;/p&gt;
+<p><em>Related: <a href="/ai-bob/2026/10/01/ibm-bob-on-premises.html">Bob On-Premises</a> · <a href="/ai-bob/2026/07/01/ibm-bob-premium-packages-architecture.html">Premium Packages announcement</a></em></p>]]></content><author><name>Benoit Marolleau</name></author><category term="ai-bob" /><summary type="html"><![CDATA[Free 2-hour online workshop for IBM Business Partners — spot the IBM i opportunity, deep-dive into Bob Premium Package for i 2.0, and explore agentic AI possibilities.]]></summary></entry><entry><title type="html">IBM Bob On-Premises: Agentic AI Without Leaving Your Data Center</title><link href="http://localhost:4000/ai-bob/2026/10/01/ibm-bob-on-premises.html" rel="alternate" type="text/html" title="IBM Bob On-Premises: Agentic AI Without Leaving Your Data Center" /><published>2026-10-01T10:00:00+02:00</published><updated>2026-10-01T10:00:00+02:00</updated><id>http://localhost:4000/ai-bob/2026/10/01/ibm-bob-on-premises</id><content type="html" xml:base="http://localhost:4000/ai-bob/2026/10/01/ibm-bob-on-premises.html"><![CDATA[<p>Available from October 1st 2026, Bob On-Premises deploys the AI inference layer on your own Red Hat OpenShift cluster. The IDE experience is unchanged; only the backend moves inside your perimeter. Air-gap compatible.</p>
 
-&lt;h2 id=&quot;1---latest-content&quot;&gt;1 - Latest Content&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;July 2020 - Open Source , OpenShift &amp;amp; App Modernization : &lt;a href=&quot;https://ibm.box.com/v/ocp-opensource-ibmi&quot;&gt;Why OpenShift and OCP for IBM i modernization?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;June 2020 - Cool Presentation &amp;amp; Demo - &lt;a href=&quot;https://ibm.box.com/v/machinelearning-ibmi&quot;&gt;Augment your Apps with H2O Driverless AI, Scikit-Learn &amp;amp; Machine Learning on IBM i&lt;/a&gt;
-    &lt;h3 id=&quot;power-systems-in-the-multicloud-era---video-series-2q2020&quot;&gt;Power Systems in the Multicloud Era - Video Series 2Q2020&lt;/h3&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Get Started with IBM Cloud Power Virtual Server &amp;amp; AIX/IBM i  &lt;a href=&quot;https://youtu.be/RywSfXT_LLs&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Automation with Terraform, IBM Cloud Pak for MCM   &lt;a href=&quot;https://youtu.be/fHZjQiXSICQ&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;June 2020 - &lt;a href=&quot;https://ibm.box.com/v/psvs-focus-ibmi&quot;&gt;Introduction to Power Virtual Server, Deep Dive , HA/DR &amp;amp; Object Storage backup&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;June 2020 - &lt;a href=&quot;https://ibm.box.com/v/ibmi-api-integration&quot;&gt;IBM i Integration&lt;/a&gt; : Web Services, Node-red, Loopback, APIM, Cloud Pak for Integration intro&lt;/li&gt;
-&lt;/ul&gt;
+<p>This is the answer to the question I hear from every bank, insurer, and government customer: <em>“Can Bob see our source code?”</em> With On-Premises: no. Your RPG programs, COBOL, and business logic never leave the network.</p>
 
-&lt;h2 id=&quot;2---machine-learning&quot;&gt;2 - Machine Learning&lt;/h2&gt;
+<p>The architecture made possible by the <a href="/ai-bob/2026/07/01/ibm-bob-premium-packages-architecture.html">July 2026 decoupled design</a>: IDE layer and inference layer are now fully separable. The IBM i AppMod lab below runs identically against a self-hosted backend.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;IBM i &amp;amp; Machine Learning : &lt;a href=&quot;https://ibm.box.com/s/kgi29tk40bzbq4ofsyu2drb55glcrqk8&quot;&gt;Demonstrations Summary&lt;/a&gt;  (details below)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;IBM ML Solutions Overview: &lt;a href=&quot;https://ibm.box.com/s/7paum9h4klekmadyldu9f3fo2v4j1hvp&quot;&gt;Watson ML, PowerAI, Paks, H2O on POWER9 - focus IoT Predictive Maintenance&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+<p>→ <a href="https://bob.ibm.com/docs/ide/enterprise/on-premises/overview">Bob On-Premises documentation</a></p>]]></content><author><name>Benoit Marolleau</name></author><category term="ai-bob" /><summary type="html"><![CDATA[IBM Bob On-Premises brings the full agentic AI coding assistant inside your own infrastructure — no data leaves your network. Critical for regulated industries, IBM i, and IBM Z shops.]]></summary></entry><entry><title type="html">IBM Bob in EMEA: Leading the Agentic AI Wave in Enterprise</title><link href="http://localhost:4000/ai-bob/2026/09/28/ibm-bob-emea-agentic-ai.html" rel="alternate" type="text/html" title="IBM Bob in EMEA: Leading the Agentic AI Wave in Enterprise" /><published>2026-09-28T10:00:00+02:00</published><updated>2026-09-28T10:00:00+02:00</updated><id>http://localhost:4000/ai-bob/2026/09/28/ibm-bob-emea-agentic-ai</id><content type="html" xml:base="http://localhost:4000/ai-bob/2026/09/28/ibm-bob-emea-agentic-ai.html"><![CDATA[<p>Bob is not a code-completion tool. It’s an <strong>agentic assistant</strong> — give it a goal, it plans and executes: reads your codebase, writes files, runs tests, iterates. After a year leading Bob adoption across EMEA, a few things are consistently true: the biggest value is collapsing <em>time to understand</em> legacy code from weeks to days; skills and MCP servers make it enterprise-grade; and the plan→review→execute loop is how you get adoption in regulated industries.</p>
 
-&lt;h3 id=&quot;accelerated-auto-ml-with-h20-driverless-ai---focus-on-ibm-iaix---septoct-2019-&quot;&gt;Accelerated Auto ML with H20 Driverless AI - Focus on IBM i/AIX - Sept/Oct 2019 **&lt;/h3&gt;
-&lt;p&gt;Live Talk in IBM Tech University Las Vegas (Oct 10th) , Prague (Oct 24th) &lt;a href=&quot;http://ibm.biz/PowerVUG&quot;&gt;PowerVUG webinar&lt;/a&gt; (Oct 16th)&lt;/p&gt;
+<p>The <code class="language-plaintext highlighter-rouge">flight400-demo</code> is the scenario I run with customers: a fictional IBM i airline, Bob reading and explaining the RPG reservation logic, generating tests, then exposing an API — live, no pre-baked output.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://youtu.be/QemqAzpyJPc&quot;&gt;Video on Youtube (PowerVUG Channel)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://public.dhe.ibm.com/systems/power/community/aix/PowerVM_webinars/89_Smarter_apps_with_ML_and_H2O.pdf&quot;&gt;PowerVUG Presentation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ibm.box.com/v/ibmi-dai-demo-deck&quot;&gt;Demo Presentation H2O &amp;amp; IBM i/AIX&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ibm.box.com/v/ibmi-dai-demo&quot;&gt;Demo Video H2O &amp;amp; IBM i/AIX&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ibm.com/systems/clientcenterdemonstrations/faces/dcDemoView.jsp?demoId=3282&quot;&gt;Demo Link on the IBM WW Demo Portal&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<p>IBM i is where Bob has the most impact. The codebase is old and dense, the developer pool is shrinking, and the platform is still better than anything that would replace it. Bob doesn’t replace IBM i. It makes it legible for the next generation.</p>
 
-&lt;h3 id=&quot;ibm-i--ai--watson-studio--watson-machine-learning&quot;&gt;IBM i , AI &amp;amp; Watson Studio / Watson Machine Learning&lt;/h3&gt;
-&lt;p&gt;A first step to AI with IBM i Apps, using Open Source technologies for Machine Learning, and DSX aka IBM Watson Studio&lt;/p&gt;
+<p>→ <a href="https://www.ibm.com/docs/en/bob">IBM Bob documentation</a></p>]]></content><author><name>Benoit Marolleau</name></author><category term="ai-bob" /><summary type="html"><![CDATA[What I've learned running IBM Bob with enterprise customers across EMEA — from first demos to production, and why IBM i is where Bob has the most impact.]]></summary></entry><entry><title type="html">IBM Z Application Modernization with Bob</title><link href="http://localhost:4000/ai-bob/2026/09/25/ibmz-appmod-with-bob.html" rel="alternate" type="text/html" title="IBM Z Application Modernization with Bob" /><published>2026-09-25T10:00:00+02:00</published><updated>2026-09-25T10:00:00+02:00</updated><id>http://localhost:4000/ai-bob/2026/09/25/ibmz-appmod-with-bob</id><content type="html" xml:base="http://localhost:4000/ai-bob/2026/09/25/ibmz-appmod-with-bob.html"><![CDATA[<p>95% of ATM swaps, 80% of credit card transactions — IBM Z runs them. The problem isn’t that the code doesn’t work. It’s that the people who wrote it are retiring, and the codebases are essentially undocumented.</p>
 
-&lt;p&gt;A sample jupyter notebook here to illustrate the use of WML from a Python Notebook: https://github.com/bmarolleau/gosales-ibmi&lt;/p&gt;
+<p>Bob on Z reads COBOL (including REDEFINES and nested PERFORM), parses JCL job streams, generates zUnit test stubs, and helps define z/OS Connect API wrappers to expose mainframe logic as REST endpoints. The lab in this repo walks through each step on a realistic workload.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;Presentation: 
-&lt;a href=&quot;https://ibm.box.com/v/ibmi-opensource-watsonstudio&quot; title=&quot;Watson Studio WML intro - AI IBM i&quot;&gt;&lt;img src=&quot;/assets/dsx-ibmi.jpg&quot; alt=&quot;Watson Studio WML intro - AI IBM i &quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Soon you’ll see how to use Driverless AI &amp;amp; PowerAI Vision from IBM i for creating a recommendation engine or other augmented apps using Open Source on i.&lt;/li&gt;
-&lt;/ul&gt;
+<p>The approach: <strong>strangler fig</strong>. Don’t replace. Wrap. Add tests. Expose APIs. Migrate individual services based on business priority.</p>]]></content><author><name>Benoit Marolleau</name></author><category term="ai-bob" /><summary type="html"><![CDATA[Bob reads COBOL, explains JCL, generates zUnit tests, and scaffolds z/OS Connect REST APIs — making mainframe code legible and evolvable without a big-bang rewrite.]]></summary></entry><entry><title type="html">IBM i for Beginners: The Most Underrated Platform in Enterprise IT</title><link href="http://localhost:4000/ibm-i/2026/09/18/ibmi-101-beginners-guide.html" rel="alternate" type="text/html" title="IBM i for Beginners: The Most Underrated Platform in Enterprise IT" /><published>2026-09-18T10:00:00+02:00</published><updated>2026-09-18T10:00:00+02:00</updated><id>http://localhost:4000/ibm-i/2026/09/18/ibmi-101-beginners-guide</id><content type="html" xml:base="http://localhost:4000/ibm-i/2026/09/18/ibmi-101-beginners-guide.html"><![CDATA[<p>IBM i (formerly AS/400) is an integrated OS where the database is built <em>into</em> the OS — not a separate product. Every object is typed. Db2 for i is the filesystem. Systems run for years without a reboot. It’s boring in the best possible way.</p>
 
-&lt;h3 id=&quot;get-started-with-ibm-cloud--ai--watson-iot--ibm-watson&quot;&gt;Get Started with IBM Cloud &amp;amp; AI , Watson IoT , IBM Watson&lt;/h3&gt;
-&lt;p&gt;The Labs I created &amp;amp; use for Tech Sales on-boarding sessions,  IBM Cloud &amp;amp; Watson days in Universities &amp;amp; engineering schools.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;IBM Cloud &amp;amp; Watson Day Labs  http://ibmcloud-watson-day.mybluemix.net/&lt;/li&gt;
-&lt;/ul&gt;
+<p>The <code class="language-plaintext highlighter-rouge">ibmi-101</code> lab takes a developer from zero to their first RPG program, SQL query, and IFS file operation in a few hours. It runs on any trial IBM i system. It’s the starting point I use for every enablement session with developers who’ve never touched the platform.</p>
 
-&lt;h3 id=&quot;watson-studio--watson-studio-local--with-an-iot-predictive-maintenance-example&quot;&gt;&lt;strong&gt;Watson Studio&lt;/strong&gt; &amp;amp; &lt;strong&gt;Watson Studio Local&lt;/strong&gt;  with an IoT/ Predictive Maintenance example:&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Presentation:&lt;br /&gt;
- &lt;a href=&quot;https://ibm.box.com/v/iot-watsonstudio-maximo&quot; title=&quot;Watson Studio intro - hybrid Cloud IoT&quot;&gt;&lt;img src=&quot;/assets/dsx-iot-1.jpg&quot; alt=&quot;Watson Studio intro - hybrid Cloud IoT &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Demo  https://ibm.ent.box.com/v/power-iot-dsx-video-mp4&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+<p>Why learn it in 2026? IBM i skills are scarce, salaries are strong, and the modernization wave means there’s a generation of work ahead. If you know both RPG and the cloud-native world, you’re extremely valuable.</p>]]></content><author><name>Benoit Marolleau</name></author><category term="ibm-i" /><summary type="html"><![CDATA[IBM i runs a surprising share of global commerce. Here's what it actually is, why it matters in 2026, and how to start learning it — with hands-on labs.]]></summary></entry><entry><title type="html">IBM Redbook: Modernizing IBM i Applications with AI</title><link href="http://localhost:4000/ibm-i/2026/08/11/ibmi-modernization-redbook.html" rel="alternate" type="text/html" title="IBM Redbook: Modernizing IBM i Applications with AI" /><published>2026-08-11T10:00:00+02:00</published><updated>2026-08-11T10:00:00+02:00</updated><id>http://localhost:4000/ibm-i/2026/08/11/ibmi-modernization-redbook</id><content type="html" xml:base="http://localhost:4000/ibm-i/2026/08/11/ibmi-modernization-redbook.html"><![CDATA[<p>IBM Redbooks are the authoritative technical deep-dives of the IBM ecosystem — peer-reviewed, field-tested, and built from real customer engagements. This one covers exactly what I do every day: taking decades of IBM i RPG and COBOL code, and making it legible, testable, and evolvable using AI.</p>
 
-&lt;h2 id=&quot;3---cloud-kubernetes-openshift--ibm-cloud-paks-multi-cloud--application-modernization&quot;&gt;3 - Cloud, Kubernetes, OpenShift &amp;amp; IBM Cloud Paks, Multi-cloud : Application Modernization&lt;/h2&gt;
+<p>I contributed to this Redbook alongside IBM colleagues and field engineers, drawing from the same customer projects and enablement sessions that underpin the posts on this blog. The content spans Bob-assisted code comprehension, RPGUnit test generation, DDS-to-DDL migration, REST API enablement with IWS, and Ansible Infrastructure as Code — a complete modernization playbook.</p>
 
-&lt;h3 id=&quot;why-containerize-your-apps-k8s-multi-cloud-introduction&quot;&gt;&lt;a href=&quot;https://ibm.box.com/v/containers-modernization-K8s&quot;&gt;Why Containerize your Apps? K8s, Multi-cloud Introduction&lt;/a&gt;&lt;/h3&gt;
+<p>If you’re an IBM i shop wondering where to start with AI-assisted modernization, this is the reference document. Free, publicly available, and grounded in real IBM i workloads.</p>
 
-&lt;h3 id=&quot;ibm-cloud-paks-value&quot;&gt;&lt;a href=&quot;https://ibm.box.com/s/5ifo3pvhn9tr249qwplccowwppm9wwvd&quot;&gt;IBM Cloud Paks Value&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Presentation on the Demo Portal  :  https://ibm.box.com/v/icp-ibmi-modernization&lt;/li&gt;
-  &lt;li&gt;Video: A “Foundation” scenario using IBM Cloud Private, PowerVC &amp;amp; CAM for Multi Cloud automation &amp;amp; IaaS  , soon enriched with CI / CD.&lt;/li&gt;
-&lt;/ul&gt;
+<p><a href="https://www.redbooks.ibm.com/docs/MD260020/MD260020.html"><img src="/assets/img/redbook-ibmi-modernization.svg" alt="Read the IBM Redbook — Modernizing IBM i Applications with AI" /></a></p>
 
-&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/v/ibmi-powervc-cam-icp-demo1&quot; title=&quot;IBM Cloud Private, PowerVC &amp;amp; CAM &quot;&gt;&lt;img src=&quot;/assets/videoCAM-ICP-IBMi.png&quot; alt=&quot;IBM Cloud Private, PowerVC &amp;amp; CAM&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+<p><strong><a href="https://www.redbooks.ibm.com/docs/MD260020/MD260020.html">→ Read the full Redbook</a></strong></p>]]></content><author><name>Benoit Marolleau</name></author><category term="ibm-i" /><summary type="html"><![CDATA[Co-authored IBM Redbook on modernizing IBM i applications using AI — covering Bob, agentic workflows, RPG comprehension, test generation, API enablement and Infrastructure as Code.]]></summary></entry><entry><title type="html">IBM Bob Expands: Premium Packages, New Architecture, Enterprise Control</title><link href="http://localhost:4000/ai-bob/2026/07/01/ibm-bob-premium-packages-architecture.html" rel="alternate" type="text/html" title="IBM Bob Expands: Premium Packages, New Architecture, Enterprise Control" /><published>2026-07-01T10:00:00+02:00</published><updated>2026-07-01T10:00:00+02:00</updated><id>http://localhost:4000/ai-bob/2026/07/01/ibm-bob-premium-packages-architecture</id><content type="html" xml:base="http://localhost:4000/ai-bob/2026/07/01/ibm-bob-premium-packages-architecture.html"><![CDATA[<p>The IBM i Developer and IBM Z modes are now <strong>premium packages</strong> — optional add-ons enterprise admins assign to specific users. A team of 200 doesn’t need IBM i premium; just the 30 who work on RPG do. This unlocked adoption at every organization that previously couldn’t justify company-wide licensing.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;Terraform &amp;amp; CAM sample code here
-    &lt;ul&gt;
-      &lt;li&gt;https://github.com/bmarolleau/IBMPower/tree/master/OpenStack/terraform/hcl/single-vm-deploy&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+<p>The new architecture decouples the IDE layer from the inference backend. This is what makes <a href="/ai-bob/2026/10/01/ibm-bob-on-premises.html">On-Premises</a> possible: the IDE stays consistent, the AI runs wherever you need it — IBM Cloud, private watsonx.ai, or your own cluster.</p>
 
-&lt;h3 id=&quot;ibm-cloud-private-and-k8s-for-ai---deep-learning-aivision--driverless-ai-as-a-service&quot;&gt;IBM Cloud Private and K8s for AI - Deep Learning, AIVision &amp;amp; Driverless AI as a Service&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Presentation Private Cloud for AI :  Behind the Scenes **Work in progress
-https://ibm.box.com/v/icp-private-cloud-for-ai&lt;/li&gt;
-&lt;/ul&gt;
+<p>Enterprise controls: shared Bobcoin pool, admin dashboard, team management, dedicated support. The full picture for a CIO: <em>“Your RPG devs get IBM i premium. Your Java devs get AppMod. Your admin controls it from one dashboard.”</em></p>
 
-&lt;h3 id=&quot;prototyping-with-purpose-node-red&quot;&gt;Prototyping with Purpose: Node-RED&lt;/h3&gt;
+<p>→ <a href="https://www.ibm.com/new/announcements/ibm-bob-expands-with-premium-packages-new-architecture-and-greater-enterprise-control">Full announcement</a></p>]]></content><author><name>Benoit Marolleau</name></author><category term="ai-bob" /><summary type="html"><![CDATA[Premium packages for specialized domains (IBM i, IBM Z, Java), a new decoupled architecture, and centralized enterprise controls — the announcement that changed how I position Bob.]]></summary></entry><entry><title type="html">IBM i Application Modernization with Bob</title><link href="http://localhost:4000/ai-bob/2026/02/04/ibmi-appmod-with-bob.html" rel="alternate" type="text/html" title="IBM i Application Modernization with Bob" /><published>2026-02-04T09:00:00+01:00</published><updated>2026-02-04T09:00:00+01:00</updated><id>http://localhost:4000/ai-bob/2026/02/04/ibmi-appmod-with-bob</id><content type="html" xml:base="http://localhost:4000/ai-bob/2026/02/04/ibmi-appmod-with-bob.html"><![CDATA[<p>The IBM i AppMod lab covers five stages: Bob reads and explains legacy RPG → generates RPGUnit tests → suggests DDS-to-DDL SQL migrations → produces an OpenAPI spec from service programs → scaffolds Ansible playbooks for system automation. Each step has a working exercise.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;To get started with Node-RED, refer to my web site http://ibmcloud-watson-day.mybluemix.net/&lt;/li&gt;
-  &lt;li&gt;For ease of use, I wrote this Db2 for i in Node-RED :    https://flows.nodered.org/node/node-red-contrib-db2-for-i&lt;/li&gt;
-  &lt;li&gt;This tutorial (IBM i or other platforms) for  &lt;a href=&quot;https://ibmcloud-watson-day.mybluemix.net/files/Lab.Node-RED-SocialDashboard.pdf&quot;&gt;Node-RED &amp;amp; Db2 for i with Watson&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Reference docs:
-    &lt;ul&gt;
-      &lt;li&gt;First of all, an excellent article for installing Node-RED on IBM i  https://developer.ibm.com/tutorials/i-running-node-red/&lt;/li&gt;
-      &lt;li&gt;https://github.com/IBMDeveloperUK/NodeRED-for-AI-flows/blob/master/ibmi/ibmi-nodered.md&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+<p>The key insight: <strong>time to understand</strong> is the real bottleneck. Once a team can read what the code does, every other modernization step accelerates dramatically. Bob collapses that from weeks to hours.</p>
 
-&lt;h2 id=&quot;4---miscellaneous-presentations--demos&quot;&gt;4 - Miscellaneous Presentations &amp;amp; Demos&lt;/h2&gt;
+<p>The companion <code class="language-plaintext highlighter-rouge">flight400-demo</code> runs this end-to-end on a fictional airline scenario — live, in Bob, with no pre-baked outputs. It’s the demo I use in every customer engagement.</p>]]></content><author><name>Benoit Marolleau</name></author><category term="ai-bob" /><summary type="html"><![CDATA[The full IBM i modernization journey with Bob — code comprehension, RPGUnit test generation, DDS-to-DDL migration, REST API spec, and Ansible IaC. All from a single lab.]]></summary></entry><entry><title type="html">IoT &amp;amp; Big Data: From Sensor to Dashboard, via IBM i</title><link href="http://localhost:4000/iot/2025/10/01/iot-bigdata-ibmi.html" rel="alternate" type="text/html" title="IoT &amp;amp; Big Data: From Sensor to Dashboard, via IBM i" /><published>2025-10-01T10:00:00+02:00</published><updated>2025-10-01T10:00:00+02:00</updated><id>http://localhost:4000/iot/2025/10/01/iot-bigdata-ibmi</id><content type="html" xml:base="http://localhost:4000/iot/2025/10/01/iot-bigdata-ibmi.html"><![CDATA[<p>The <code class="language-plaintext highlighter-rouge">iot-bigdata-lab</code> was built for <strong>IAE Montpellier</strong> MBA students: sensor → MQTT broker → Node-RED pipeline → dashboard, with IBM i Db2 providing the business context. The goal was to give non-developers a real mental model of what their engineers actually build.</p>
 
-&lt;h3 id=&quot;powerai-vision-114-intro--demo&quot;&gt;&lt;a href=&quot;https://ibm.box.com/shared/static/jttt4e31boksoaph1b8hlh1vgk6nmb33.pdf&quot;&gt;PowerAI Vision 1.1.4 Intro &amp;amp; Demo&lt;/a&gt;&lt;/h3&gt;
+<p>The pattern matters beyond the classroom. Industrial IoT data (vibration, temperature, pressure) is only useful when joined with business context — maintenance history, asset SLAs, production orders — and that context almost always lives in IBM i. The <code class="language-plaintext highlighter-rouge">vms-iot-dashboard</code> project shows this in a real manufacturing scenario.</p>
 
-&lt;h3 id=&quot;common-europe-congress---may-2019&quot;&gt;COMMON Europe Congress - May 2019**&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/shared/static/6s3d03gpp1on6rc2e18nk7s2n15kvtuy.pdf&quot;&gt;Watson Machine Learning - IBM i use cases and demos&lt;/a&gt;&lt;/p&gt;
+<p>Node-RED remains my go-to prototyping tool. The <code class="language-plaintext highlighter-rouge">node-red-contrib-db2-for-i</code> node I published connects any Node-RED flow directly to IBM i Db2 — thousands of downloads, still used in production.</p>]]></content><author><name>Benoit Marolleau</name></author><category term="iot" /><summary type="html"><![CDATA[End-to-end IoT pipelines for engineering and business school students — MQTT, Node-RED, time-series storage, and real-time dashboards connected to IBM i business data.]]></summary></entry><entry><title type="html">Cloud Design Patterns: Event-Driven, CDC, and Mesh Architectures</title><link href="http://localhost:4000/data-streaming/2025/08/29/cloud-design-patterns-cdc-mesh.html" rel="alternate" type="text/html" title="Cloud Design Patterns: Event-Driven, CDC, and Mesh Architectures" /><published>2025-08-29T10:00:00+02:00</published><updated>2025-08-29T10:00:00+02:00</updated><id>http://localhost:4000/data-streaming/2025/08/29/cloud-design-patterns-cdc-mesh</id><content type="html" xml:base="http://localhost:4000/data-streaming/2025/08/29/cloud-design-patterns-cdc-mesh.html"><![CDATA[<p>These patterns power the modernization projects I run with customers. The <code class="language-plaintext highlighter-rouge">cdp-mesh-tutorial</code> is the Polytech Montpellier course material — hands-on Kafka and CDC exercises on OpenShift, from zero to a running event-driven pipeline in a few hours.</p>
 
-&lt;h3 id=&quot;presentations--demos-from-the-université-ibm-i---may-2019&quot;&gt;Presentations &amp;amp; Demos from the Université IBM i - May 2019**&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;./UII2019.md&quot;&gt;Université IBM i 2019&lt;/a&gt;&lt;/p&gt;
+<p>The most impactful pattern for IBM i: <strong>Debezium CDC</strong>. Capture every Db2 for i journal record change and stream it to Kafka — zero polling, no ETL, real-time data propagation without touching the application. The <code class="language-plaintext highlighter-rouge">debezium-ibmi-demo</code> repo shows this end-to-end: IBM i journal → Debezium → Kafka → downstream consumers.</p>
 
-&lt;h3 id=&quot;private-ai-architecture-----powerai-wml&quot;&gt;Private AI Architecture  -  PowerAI-WML&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/s/gpa8bgzjokmtc84ierigfc0jpg85tlnh&quot; title=&quot;PowerAI WML directions &quot;&gt;&lt;img src=&quot;/assets/POWERAI-WML-Private-AI-Architecture.jpg&quot; alt=&quot;Private AI with PowerAI &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;driverless-ai--icp-on-power9&quot;&gt;&lt;strong&gt;Driverless AI &amp;amp; ICP on POWER9&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Presentation :  &lt;a href=&quot;./public/presentations/H2O_Driverless_AI_on_Power-_AI_to_do_AI_AA.pdf&quot;&gt;AI to do AI&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;First demonstration:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ibm.box.com/v/h2odai-power-demo1&quot; title=&quot;h2o.ai Driverless AI on POWER9 video 1 &quot;&gt;&lt;img src=&quot;/assets/h2odai-video.jpg&quot; alt=&quot;Private AI with ICP, h2o.ai Driverless AI on POWER9/NVLink &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
-&lt;p&gt;benoit.marolleau@fr.ibm.com&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"></summary></entry></feed>
+<p>Data mesh is the next step: treating IBM i operational data as a domain-owned, catalogued data product, accessible to analytics and AI workloads via federated query — without copying it into a warehouse.</p>]]></content><author><name>Benoit Marolleau</name></author><category term="data-streaming" /><summary type="html"><![CDATA[Real cloud design patterns from a Polytech Montpellier course — Kafka event streaming, Debezium CDC from IBM i, and data mesh concepts applied to enterprise modernization.]]></summary></entry></feed>

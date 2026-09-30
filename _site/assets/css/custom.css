@@ -1,0 +1,68 @@
+/* ── Avatar: reposition from centre-below to left of navbar brand ── */
+
+/* Remove the absolute centred positioning */
+.navbar-custom .avatar-container {
+  position: static;
+  left: auto;
+  bottom: auto;
+  width: auto;
+  margin-right: 0.6rem;
+  display: inline-flex;
+  align-items: center;
+  order: -1;          /* push before the brand text */
+  transition: none;
+}
+
+/* Keep it visible even when nav is short/scrolled */
+.navbar-custom.top-nav-short .avatar-container {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Size the avatar small enough to sit inline */
+.navbar-custom .avatar-container .avatar-img-border {
+  width: 2.4rem;
+  height: 2.4rem;
+  margin-left: 0;
+  border-radius: 50%;
+  box-shadow: 0 0 0 2px rgba(255,255,255,0.25);
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.navbar-custom .avatar-container .avatar-img {
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 50%;
+  display: block;
+  object-fit: cover;
+}
+
+/* On large screens keep the same compact size */
+@media (min-width: 1200px) {
+  .navbar-custom.top-nav-regular .avatar-container {
+    width: auto;
+    bottom: auto;
+  }
+  .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
+    width: 2.4rem;
+    box-shadow: 0 0 0 2px rgba(255,255,255,0.25);
+  }
+  .navbar-custom.top-nav-regular .avatar-container .avatar-img {
+    width: 2.4rem;
+  }
+}
+
+/* Wrap brand + avatar together in flex row */
+.navbar-custom .navbar-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+/* Hide avatar when nav collapses on mobile */
+@media (max-width: 1199px) {
+  .navbar-custom.top-nav-expanded .avatar-container {
+    display: none;
+  }
+}
